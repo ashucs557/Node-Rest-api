@@ -8,7 +8,7 @@ app.get('/api/users', (_req, res) => {
 })
 
 app.listen(PORT, () => {
-  costnsole.log(`Server running on port: `, PORT);
+  console.log(`Server running on port: `, PORT);
 });
  module.exports = app;
  // Test  do
