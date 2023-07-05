@@ -8,8 +8,9 @@ app.get('/api/users', (_req, res) => {
 })
 
 app.listen(PORT, () => {
-  console.log(`Server running on port: `, PORT);
+  costnsole.log(`Server running on port: `, PORT);
 });
  module.exports = app;
  // Test  do
  // third committ to chamge
+ // hours commit to chamge
